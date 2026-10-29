@@ -1,28 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300"><defs>
-<linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101d31"/><stop offset="1" stop-color="#0b172a"/></linearGradient>
-<linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#8bf1ff"/><stop offset="1" stop-color="#4baeff"/></linearGradient>
-</defs>
-<rect width="1120" height="300" rx="16" fill="url(#panel)"/><rect x="1" y="1" width="1118" height="298" rx="15" fill="none" stroke="#34536e" stroke-width="1.3"/><path d="M817.6 0 L537.6 300 M1030.4 0 L761.6 300" stroke="#9ce8ff" stroke-opacity=".035"/>
-<path d="M36 0V300" stroke="#2fd8ef" stroke-width="3" stroke-opacity=".6"/>
-<text x="67" y="49" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="500" letter-spacing="2" fill="#64d4ed">01   /   FEATURED PROJECT</text>
-<text x="66" y="109" font-size="48" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#f0f8ff">QAM-Fusion</text>
-<text x="67" y="145" font-size="20" font-family="Arial,Helvetica,sans-serif" font-weight="400" fill="#b0c9db">Quality-aware multimodal fusion</text>
-<text x="67" y="177" font-size="20" font-family="Arial,Helvetica,sans-serif" font-weight="400" fill="#b0c9db">for sentiment analysis</text>
-<rect x="67" y="213" width="100" height="31" rx="9" fill="#162d43" stroke="#2b506a"/><text x="117" y="233" text-anchor="middle" font-size="13" font-family="Consolas,Menlo,monospace" fill="#49cef1">PYTORCH</text><rect x="178" y="213" width="101" height="31" rx="9" fill="#162d43" stroke="#2b506a"/><text x="228.5" y="233" text-anchor="middle" font-size="13" font-family="Consolas,Menlo,monospace" fill="#49cef1">FUSION</text><rect x="290" y="213" width="163" height="31" rx="9" fill="#162d43" stroke="#2b506a"/><text x="371.5" y="233" text-anchor="middle" font-size="13" font-family="Consolas,Menlo,monospace" fill="#49cef1">IN DEVELOPMENT</text>
-<text x="68" y="275" font-size="14" font-family="Consolas,Menlo,monospace" font-weight="400" fill="#7f9bb1">Private repository · active development</text>
-<path d="M536 52V249" stroke="#42617e" stroke-width="1" stroke-opacity=".7"/>
-<text x="578" y="57" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="500" letter-spacing="2" fill="#82a6c2">ARCHITECTURE / CONCEPT</text>
-<g fill="#142d45" stroke="#406887" stroke-width="1.1">
-<rect x="582" y="85" width="120" height="44" rx="9"/><rect x="582" y="137" width="120" height="44" rx="9"/><rect x="582" y="189" width="120" height="44" rx="9"/>
-<rect x="764" y="130" width="141" height="60" rx="10" stroke="#4acfea"/>
-<rect x="964" y="130" width="123" height="60" rx="10"/>
-</g>
-<text x="642" y="112" font-size="14" font-family="Consolas,Menlo,monospace" font-weight="600" fill="#b4cee1">TEXT</text><text x="642" y="164" font-size="14" font-family="Consolas,Menlo,monospace" font-weight="600" fill="#b4cee1">AUDIO</text><text x="642" y="216" font-size="14" font-family="Consolas,Menlo,monospace" font-weight="600" fill="#b4cee1">VISION</text>
-<text x="835" y="154" font-size="14" font-family="Arial,Helvetica,sans-serif" font-weight="600" fill="#80e9f7">Quality-aware</text><text x="835" y="175" font-size="14" font-family="Arial,Helvetica,sans-serif" font-weight="600" fill="#80e9f7">gating</text>
-<text x="1026" y="154" font-size="14" font-family="Arial,Helvetica,sans-serif" font-weight="600" fill="#b4cee1">Temporal</text><text x="1026" y="175" font-size="14" font-family="Arial,Helvetica,sans-serif" font-weight="600" fill="#b4cee1">fusion</text>
-<g stroke="#57bcd8" stroke-width="1.6" fill="none" opacity=".8">
-<path d="M702 107H724V160H759"/><path d="M702 159H759"/><path d="M702 211H724V160"/><path d="M905 160H959"/>
-<path d="M754 155L760 160L754 165M953 155L960 160L953 165"/>
-</g>
-<text x="982" y="219" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="400" fill="#8daec6">→ prediction</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="292" viewBox="0 0 1120 292" role="img">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e1c31"/><stop offset=".6" stop-color="#0c192c"/><stop offset="1" stop-color="#0a1424"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8ceeff"/><stop offset="1" stop-color="#4e9ff7"/></linearGradient>
+  <radialGradient id="light" cx="65%" cy="42%" r="65%"><stop stop-color="#2878b5" stop-opacity=".19"/><stop offset="1" stop-color="#1b3458" stop-opacity="0"/></radialGradient>
+  
+ </defs>
+ <rect width="1120" height="292" rx="14" fill="url(#bg)"/>
+ <rect width="1120" height="292" rx="14" fill="url(#light)"/>
+ <rect x=".9" y=".9" width="1118.2" height="290.2" rx="13" fill="none" stroke="#2d4c68" stroke-width="1.8"/>
+ <g opacity=".07" stroke="#90cfff" stroke-width="1"><path d="M850 0V292M980 0V292M720 0V292M600 0V292"/></g>
+ 
+  <rect x="0" y="0" width="5" height="292" rx="2" fill="#59d5f2"/>
+  <text x="43" y="47" font-size="16" fill="#6dd7ef" font-weight="400" font-family="Consolas,Menlo,monospace" letter-spacing="1.8">01  /  FEATURED PROJECT</text>
+  <text x="43" y="111" font-size="54" fill="#f2f8ff" font-weight="700" font-family="Arial,Helvetica,sans-serif" >QAM-Fusion</text>
+  <text x="44" y="153" font-size="22" fill="#b6cddd" font-weight="400" font-family="Arial,Helvetica,sans-serif" >Quality-aware multimodal fusion</text>
+  <text x="44" y="183" font-size="22" fill="#b6cddd" font-weight="400" font-family="Arial,Helvetica,sans-serif" >for sentiment analysis</text>
+  <rect x="43" y="211" width="100" height="32" rx="8" fill="#122b42" stroke="#2a4c64"/><text x="93" y="232" font-size="13" fill="#80dcef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">PYTORCH</text><rect x="154" y="211" width="100" height="32" rx="8" fill="#122b42" stroke="#2a4c64"/><text x="204" y="232" font-size="13" fill="#80dcef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">GATING</text><rect x="265" y="211" width="178" height="32" rx="8" fill="#122b42" stroke="#2a4c64"/><text x="354" y="232" font-size="13" fill="#80dcef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">IN DEVELOPMENT</text>
+  <text x="43" y="274" font-size="13" fill="#729cb5" font-weight="400" font-family="Consolas,Menlo,monospace" letter-spacing=".5">PRIVATE REPOSITORY  /  WORK IN PROGRESS</text>
+  <path d="M532 44V247" fill="none" stroke="#355471" stroke-width="1"/>
+  <text x="564" y="47" font-size="15" fill="#86aac4" font-weight="400" font-family="Consolas,Menlo,monospace" letter-spacing="1.7">MODEL OVERVIEW</text>
+  <g>
+  <rect x="565" y="79" width="124" height="45" rx="9" fill="#132c42" stroke="#39627b"/><text x="627" y="107" font-size="17" fill="#cbe2ef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">TEXT</text><rect x="565" y="140" width="124" height="45" rx="9" fill="#132c42" stroke="#39627b"/><text x="627" y="168" font-size="17" fill="#cbe2ef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">AUDIO</text><rect x="565" y="201" width="124" height="45" rx="9" fill="#132c42" stroke="#39627b"/><text x="627" y="229" font-size="17" fill="#cbe2ef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">VISION</text>
+  <rect x="752" y="119" width="146" height="76" rx="11" fill="#142e46" stroke="#4aa6c7"/>
+  <text x="825" y="148" font-size="17" fill="#91ebfa" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">QUALITY</text>
+  <text x="825" y="175" font-size="19" fill="#91ebfa" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">GATE</text>
+  <rect x="961" y="132" width="105" height="49" rx="9" fill="#142e46" stroke="#39627b"/>
+  <text x="1014" y="163" font-size="19" fill="#d2e7f4" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">GRU</text>
+  <path d="M689 101H723V158H752M689 162H752M689 223H723V158" fill="none" stroke="#4f9ab6" stroke-width="2"/>
+  <path d="M898 157H961" fill="none" stroke="#4f9ab6" stroke-width="2"/><path d="M952 150L960 157L952 164" fill="none" stroke="#4f9ab6" stroke-width="2"/>
+  <text x="777" y="256" font-size="14" fill="#7497b0" font-weight="400" font-family="Consolas,Menlo,monospace" >representation  →  prediction</text>
+  </g>
+
+ </svg>
