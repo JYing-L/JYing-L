@@ -23,7 +23,7 @@
  <text x="28" y="70" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#91afc5">Inference &amp; tool-based workflows</text>
  <path d="M28 87H525" stroke="#36546e" stroke-width=".8" opacity=".78"/>
 <rect x="28" y="104" width="58" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="57" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">vLLM</text>
-<rect x="98" y="104" width="85" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="140.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">Qwen2.5</text>
+<rect x="98" y="104" width="85" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="140.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">LLM APIs</text>
 <rect x="195" y="104" width="131" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="260.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">Tool Calling</text>
 <rect x="28" y="150" width="95" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="75.5" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">AppWorld</text>
 <rect x="135" y="150" width="113" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="191.5" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">LLM Agents</text>
@@ -53,7 +53,7 @@
 <rect x="107" y="104" width="49" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="131.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">Git</text>
 <rect x="168" y="104" width="39" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="187.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">uv</text>
 <rect x="28" y="150" width="76" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="66" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">Gradio</text>
-<rect x="116" y="150" width="76" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="154" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">FFmpeg</text>
+<rect x="116" y="150" width="76" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="154" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">PyCharm</text>
 <rect x="204" y="150" width="58" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="233" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">CUDA</text>
 </g>
 </svg>
