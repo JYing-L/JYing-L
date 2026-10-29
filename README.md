@@ -13,9 +13,9 @@
 <br/><br/>
 
 <a href="#about">About</a> &nbsp; · &nbsp;
+<a href="#stack">Tech Stack</a> &nbsp; · &nbsp;
 <a href="#projects">Projects</a> &nbsp; · &nbsp;
-<a href="#research">Research</a> &nbsp; · &nbsp;
-<a href="#stack">Stack</a>
+<a href="#research">Research</a>
 
 </div>
 
@@ -31,9 +31,21 @@ I like the full process, from reading research and designing experiments to impl
 
 <br/>
 
+<a id="stack"></a>
+
+### <code>02 / TECH STACK</code>
+
+An overview of the tools and areas I work with, spanning **deep learning**, **LLM systems**, and my **big-data background**.
+
+<img src="./assets/tech-stack.svg" width="100%" alt="Technical stack: Python, PyTorch, Transformers, vLLM, LLM Agents, big data, Git, Linux, uv and Gradio" />
+
+<sub>Big data is part of my academic background. Specific data platforms can be added as I document hands-on experience.</sub>
+
+<br/>
+
 <a id="projects"></a>
 
-### <code>02 / SELECTED PROJECTS</code>
+### <code>03 / SELECTED PROJECTS</code>
 
 <a href="https://github.com/JYing-L/QAM-Fusion">
   <img src="./assets/qam-feature.svg" width="100%" alt="QAM-Fusion: quality-aware multimodal fusion, in development" />
@@ -62,7 +74,7 @@ I like the full process, from reading research and designing experiments to impl
 
 <a id="research"></a>
 
-### <code>03 / RESEARCH</code>
+### <code>04 / RESEARCH</code>
 
 <img src="./assets/research-focus.svg" width="100%" alt="Research focus: agent traces, evidence, and failure attribution" />
 
@@ -75,26 +87,6 @@ I like the full process, from reading research and designing experiments to impl
 <sub>Current research interests and questions, not publication claims.</sub>
 
 <br/><br/>
-
-<a id="stack"></a>
-
-### <code>04 / TOOLKIT</code>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-101D31?style=flat-square&logo=python&logoColor=62D5EF" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-101D31?style=flat-square&logo=pytorch&logoColor=62D5EF" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Git-101D31?style=flat-square&logo=git&logoColor=62D5EF" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-101D31?style=flat-square&logo=linux&logoColor=62D5EF" alt="Linux" />
-
-
-<img src="https://img.shields.io/badge/Transformers-101D31?style=flat-square&logo=huggingface&logoColor=62D5EF" alt="Transformers" />
-<img src="https://img.shields.io/badge/Gradio-101D31?style=flat-square&logoColor=62D5EF" alt="Gradio" />
-<img src="https://img.shields.io/badge/Deep%20Learning-101D31?style=flat-square&logoColor=62D5EF" alt="Deep Learning" />
-
-</div>
-
-<br/>
 
 ---
 
