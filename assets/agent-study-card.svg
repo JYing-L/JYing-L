@@ -1,20 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="252" viewBox="0 0 540 252"><defs>
-<linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101d31"/><stop offset="1" stop-color="#0b172a"/></linearGradient>
-<linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#8bf1ff"/><stop offset="1" stop-color="#4baeff"/></linearGradient>
-</defs>
-  <rect width="540" height="252" rx="16" fill="url(#panel)"/><rect x="1" y="1" width="538" height="250" rx="15" fill="none" stroke="#34536e" stroke-width="1.3"/><path d="M394.2 0 L259.2 252 M496.8 0 L367.20000000000005 252" stroke="#9ce8ff" stroke-opacity=".035"/>
-  <path d="M35 0V252" stroke="#66cdf1" stroke-width="2.8" opacity=".75"/>
-  <text x="60" y="44" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="500" letter-spacing="2" fill="#66cdf1">02   /   PROJECT</text>
-  <text x="59" y="94" font-size="34" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#edf7ff">agent-study</text>
-  <text x="60" y="131" font-size="17" font-family="Arial,Helvetica,sans-serif" font-weight="400" fill="#aac3d8">Learning and prototyping</text>
-  <text x="60" y="156" font-size="17" font-family="Arial,Helvetica,sans-serif" font-weight="400" fill="#aac3d8">LLM agent workflows</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="218" viewBox="0 0 1120 218" role="img">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e1c31"/><stop offset=".6" stop-color="#0c192c"/><stop offset="1" stop-color="#0a1424"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8ceeff"/><stop offset="1" stop-color="#4e9ff7"/></linearGradient>
+  <radialGradient id="light" cx="65%" cy="42%" r="65%"><stop stop-color="#2878b5" stop-opacity=".19"/><stop offset="1" stop-color="#1b3458" stop-opacity="0"/></radialGradient>
   
-    <path d="M339 174H473" stroke="#66cdf1" stroke-opacity=".55" stroke-width="1.5"/>
-    <rect x="328" y="161" width="45" height="26" rx="6" fill="#143045" stroke="#3a809d"/>
-    <rect x="391" y="161" width="45" height="26" rx="6" fill="#143045" stroke="#3a809d"/>
-    <rect x="454" y="161" width="45" height="26" rx="6" fill="#143045" stroke="#3a809d"/>
-    <g font-family="Consolas,monospace" fill="#66cdf1" font-size="10" text-anchor="middle"><text x="350" y="178">PLAN</text><text x="413" y="178">ACT</text><text x="477" y="178">CHECK</text></g>
-  
-  <rect x="60" y="192" width="97" height="31" rx="9" fill="#162d43" stroke="#2b506a"/><text x="108.5" y="212" text-anchor="middle" font-size="13" font-family="Consolas,Menlo,monospace" fill="#66cdf1">PYTHON</text><rect x="168" y="192" width="124" height="31" rx="9" fill="#162d43" stroke="#2b506a"/><text x="230" y="212" text-anchor="middle" font-size="13" font-family="Consolas,Menlo,monospace" fill="#66cdf1">LLM AGENTS</text>
-  <text x="60" y="239" font-size="12" font-family="Consolas,Menlo,monospace" font-weight="400" fill="#7694ad">Public repository</text>
-  </svg>
+ </defs>
+ <rect width="1120" height="218" rx="14" fill="url(#bg)"/>
+ <rect width="1120" height="218" rx="14" fill="url(#light)"/>
+ <rect x=".9" y=".9" width="1118.2" height="216.2" rx="13" fill="none" stroke="#2d4c68" stroke-width="1.8"/>
+ <g opacity=".07" stroke="#90cfff" stroke-width="1"><path d="M850 0V218M980 0V218M720 0V218M600 0V218"/></g>
+ 
+  <rect x="0" y="0" width="5" height="218" rx="2" fill="#7edcef"/>
+  <text x="43" y="42" font-size="15" fill="#7edcef" font-weight="400" font-family="Consolas,Menlo,monospace" letter-spacing="1.8">02  /  OPEN REPOSITORY</text>
+  <text x="43" y="94" font-size="40" fill="#f2f8ff" font-weight="700" font-family="Arial,Helvetica,sans-serif" >agent-study</text>
+  <text x="43" y="131" font-size="19" fill="#aec5d6" font-weight="400" font-family="Arial,Helvetica,sans-serif" >Notes, experiments and practice</text><text x="43" y="159" font-size="19" fill="#aec5d6" font-weight="400" font-family="Arial,Helvetica,sans-serif" >with LLM agent workflows.</text>
+  <rect x="43" y="174" width="130" height="32" rx="8" fill="#122b42" stroke="#2a4c64"/><text x="108" y="195" font-size="13" fill="#7edcef" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">PYTHON</text><text x="194" y="194" font-size="14" fill="#789ab0" font-weight="400" font-family="Consolas,Menlo,monospace" >PUBLIC / LEARNING</text>
+  <path d="M729 46V175" fill="none" stroke="#2f4b64" stroke-width="1"/>
+  <g>
+  <rect x="783" y="89" width="99" height="51" rx="9" fill="#122b41" stroke="#3e7791"/>
+  <rect x="912" y="89" width="99" height="51" rx="9" fill="#122b41" stroke="#3e7791"/>
+  <text x="832" y="120" font-size="16" fill="#7edcef" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">PLAN</text>
+  <text x="961" y="120" font-size="16" fill="#7edcef" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">ACT</text>
+  <path d="M882 114H912" fill="none" stroke="#7edcef" stroke-width="2"/><path d="M905 108L912 114L905 120" fill="none" stroke="#7edcef" stroke-width="2"/>
+  <text x="900" y="178" font-size="14" fill="#7398b1" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">AGENT WORKFLOWS</text>
+ </g>
+ 
+ </svg>
