@@ -43,24 +43,20 @@ I like the full process, from reading research and designing experiments to impl
 
 <br/><br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/JYing-L/agent-study">
-    <img src="./assets/agent-study-card.svg" width="100%" alt="agent-study project card" />
-  </a>
-  <br/>
-  <sub>Learning notes and small agent workflow experiments · <a href="https://github.com/JYing-L/agent-study">View code</a></sub>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/JYing-L/Empathetic-Memory-Augmented-Agent-EMAA-">
-    <img src="./assets/emaa-card.svg" width="100%" alt="EMAA early-stage agent research card" />
-  </a>
-  <br/>
-  <sub>Early-stage exploration of memory-augmented agents · <a href="https://github.com/JYing-L/Empathetic-Memory-Augmented-Agent-EMAA-">View repository</a></sub>
-</td>
-</tr>
-</table>
+<a href="https://github.com/JYing-L/agent-study">
+  <img src="./assets/agent-study-card.svg" width="100%" alt="agent-study | Agent learning and workflow practice" />
+</a>
+
+<sub>**agent-study** · Learning notes and practical agent examples · [View repository](https://github.com/JYing-L/agent-study)</sub>
+
+<br/><br/>
+
+<a href="https://github.com/JYing-L/Empathetic-Memory-Augmented-Agent-EMAA-">
+  <img src="./assets/emaa-card.svg" width="100%" alt="EMAA | Early-stage memory-augmented agent exploration" />
+</a>
+
+<sub>**EMAA** · An exploratory repository, not a completed research result · [View repository](https://github.com/JYing-L/Empathetic-Memory-Augmented-Agent-EMAA-)</sub>
+
 
 <br/>
 
@@ -72,16 +68,11 @@ I like the full process, from reading research and designing experiments to impl
 
 <br/>
 
-**Topics I am exploring**
+<p align="center">
+  <code>LLM Agents</code> &nbsp;·&nbsp; <code>Multi-Agent Systems</code> &nbsp;·&nbsp; <code>Agent Reliability</code> &nbsp;·&nbsp; <code>Failure Attribution</code>
+</p>
 
-```text
-LLM Agents            Planning · Tool use · Decision-making
-Multi-Agent Systems   Coordination · Delegation · Interactions
-Agent Reliability     Failure analysis · Robust execution
-Failure Attribution   Execution traces · Root-cause evaluation
-```
-
-<sub>These are current interests and research questions, not publication claims.</sub>
+<sub>Current research interests and questions, not publication claims.</sub>
 
 <br/><br/>
 
@@ -91,9 +82,11 @@ Failure Attribution   Execution traces · Root-cause evaluation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,git,linux&theme=dark" alt="Python, PyTorch, Git, Linux" />
+<img src="https://img.shields.io/badge/Python-101D31?style=flat-square&logo=python&logoColor=62D5EF" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-101D31?style=flat-square&logo=pytorch&logoColor=62D5EF" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Git-101D31?style=flat-square&logo=git&logoColor=62D5EF" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-101D31?style=flat-square&logo=linux&logoColor=62D5EF" alt="Linux" />
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Transformers-101D31?style=flat-square&logo=huggingface&logoColor=62D5EF" alt="Transformers" />
 <img src="https://img.shields.io/badge/Gradio-101D31?style=flat-square&logoColor=62D5EF" alt="Gradio" />
