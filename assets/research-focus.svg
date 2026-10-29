@@ -1,24 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="235" viewBox="0 0 1120 235"><defs>
-<linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101d31"/><stop offset="1" stop-color="#0b172a"/></linearGradient>
-<linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#8bf1ff"/><stop offset="1" stop-color="#4baeff"/></linearGradient>
-</defs><rect width="1120" height="235" rx="16" fill="url(#panel)"/><rect x="1" y="1" width="1118" height="233" rx="15" fill="none" stroke="#34536e" stroke-width="1.3"/><path d="M817.6 0 L537.6 235 M1030.4 0 L761.6 235" stroke="#9ce8ff" stroke-opacity=".035"/>
-<path d="M35 0V235" stroke="#60d9ed" stroke-width="2.8" opacity=".75"/>
-<text x="60" y="46" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="500" letter-spacing="2" fill="#66d6ed">RESEARCH DIRECTION  /  IN EXPLORATION</text>
-<text x="60" y="96" font-size="37" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#e8f7ff">Why do agents fail?</text>
-<text x="60" y="134" font-size="19" font-family="Arial,Helvetica,sans-serif" font-weight="400" fill="#acc6da">Agent reliability and failure attribution</text>
-<text x="60" y="163" font-size="17" font-family="Arial,Helvetica,sans-serif" font-weight="400" fill="#819fb8">Understanding traces, evidence and root causes.</text>
-<text x="60" y="206" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="400" fill="#7997ae">A research question — not a published result.</text>
-<g stroke="#426785" fill="#172d44" stroke-width="1.2">
-<rect x="630" y="99" width="108" height="49" rx="9"/>
-<rect x="765" y="99" width="108" height="49" rx="9"/>
-<rect x="900" y="99" width="154" height="49" rx="9" stroke="#64dbed"/>
-</g>
-<g font-family="Consolas,Menlo,monospace" fill="#b5d0e3" font-size="13">
-<text x="684" y="128" text-anchor="middle">TRACE</text>
-<text x="819" y="128" text-anchor="middle">EVIDENCE</text>
-<text x="977" y="128" text-anchor="middle" fill="#79e5f3">ROOT CAUSE?</text>
-</g>
-<path d="M738 124H759M873 124H894" stroke="#56c6de" stroke-width="2"/><path d="M754 119L760 124L754 129M889 119L895 124L889 129" stroke="#56c6de" fill="none" stroke-width="2"/>
-<path d="M618 173H1055" stroke="#4a6e8e" stroke-opacity=".5" stroke-dasharray="4 8"/>
-<text x="632" y="203" font-size="13" font-family="Consolas,Menlo,monospace" font-weight="500" letter-spacing="2" fill="#7196b4">LOCATE   →   ATTRIBUTE   →   EVALUATE</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="258" viewBox="0 0 1120 258" role="img">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e1c31"/><stop offset=".6" stop-color="#0c192c"/><stop offset="1" stop-color="#0a1424"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8ceeff"/><stop offset="1" stop-color="#4e9ff7"/></linearGradient>
+  <radialGradient id="light" cx="65%" cy="42%" r="65%"><stop stop-color="#2878b5" stop-opacity=".19"/><stop offset="1" stop-color="#1b3458" stop-opacity="0"/></radialGradient>
+  
+ </defs>
+ <rect width="1120" height="258" rx="14" fill="url(#bg)"/>
+ <rect width="1120" height="258" rx="14" fill="url(#light)"/>
+ <rect x=".9" y=".9" width="1118.2" height="256.2" rx="13" fill="none" stroke="#2d4c68" stroke-width="1.8"/>
+ <g opacity=".07" stroke="#90cfff" stroke-width="1"><path d="M850 0V258M980 0V258M720 0V258M600 0V258"/></g>
+ 
+ <rect x="0" y="0" width="5" height="258" rx="2" fill="#64d7eb"/>
+ <text x="43" y="46" font-size="15" fill="#74d7e9" font-weight="400" font-family="Consolas,Menlo,monospace" letter-spacing="1.6">RESEARCH  /  WORK IN PROGRESS</text>
+ <text x="43" y="105" font-size="44" fill="#f0f8ff" font-weight="700" font-family="Arial,Helvetica,sans-serif" >Why do agents fail?</text>
+ <text x="43" y="150" font-size="20" fill="#b0c8da" font-weight="400" font-family="Arial,Helvetica,sans-serif" >Investigating execution traces, failure causes</text>
+ <text x="43" y="179" font-size="20" fill="#b0c8da" font-weight="400" font-family="Arial,Helvetica,sans-serif" >and reliable agent behavior.</text>
+ <text x="43" y="230" font-size="13" fill="#779ab2" font-weight="400" font-family="Consolas,Menlo,monospace" >CURRENT RESEARCH DIRECTION  /  NO PUBLICATION CLAIM</text>
+ <path d="M601 49V214" fill="none" stroke="#355471" stroke-width="1"/>
+ <text x="634" y="55" font-size="16" fill="#87adc5" font-weight="400" font-family="Consolas,Menlo,monospace" letter-spacing="1.2">FAILURE ATTRIBUTION</text>
+ <rect x="636" y="102" width="105" height="57" rx="8" fill="#152b44" stroke="#3d6a85"/><rect x="777" y="102" width="115" height="57" rx="8" fill="#152b44" stroke="#3d6a85"/><rect x="928" y="102" width="145" height="57" rx="8" fill="#15344c" stroke="#49aec8"/>
+ <text x="688" y="137" font-size="17" fill="#c9e2f0" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">TRACE</text>
+ <text x="834" y="137" font-size="17" fill="#c9e2f0" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">EVIDENCE</text>
+ <text x="1001" y="137" font-size="16" fill="#82e9f7" font-weight="700" font-family="Consolas,Menlo,monospace" text-anchor="middle">ROOT CAUSE?</text>
+ <path d="M741 131H777M892 131H928" fill="none" stroke="#6ccde5" stroke-width="2"/>
+ <text x="688" y="199" font-size="14" fill="#779ab2" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">observe</text>
+ <text x="834" y="199" font-size="14" fill="#779ab2" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">analyze</text>
+ <text x="1001" y="199" font-size="14" fill="#779ab2" font-weight="400" font-family="Consolas,Menlo,monospace" text-anchor="middle">attribute</text>
+
+ </svg>
