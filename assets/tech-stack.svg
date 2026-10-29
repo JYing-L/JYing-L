@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="411" viewBox="0 0 1120 411" role="img" aria-label="Technical stack across deep learning, LLM agents, big data and engineering">
+<defs><linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101d30"/><stop offset="1" stop-color="#0b1628"/></linearGradient><radialGradient id="glow"><stop stop-color="#2c7cbe" stop-opacity=".18"/><stop offset="1" stop-color="#1d456f" stop-opacity="0"/></radialGradient></defs>
+<g transform="translate(0 0)">
+ <rect width="553" height="196" rx="14" fill="url(#panel)"/>
+ <rect width="553" height="196" rx="14" fill="url(#glow)"/>
+ <rect x=".8" y=".8" width="551.4" height="194.4" rx="13" stroke="#34516c" fill="none" stroke-width="1.6"/>
+ <rect x="0" y="0" width="4" height="196" rx="2" fill="#74d9ed" opacity=".86"/>
+ <text x="28" y="41" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#74d9ed" letter-spacing="1.4">AI / DEEP LEARNING</text>
+ <text x="28" y="70" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#91afc5">Model training &amp; experimentation</text>
+ <path d="M28 87H525" stroke="#36546e" stroke-width=".8" opacity=".78"/>
+<rect x="28" y="104" width="76" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="66" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#74d9ed">Python</text>
+<rect x="116" y="104" width="85" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="158.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#74d9ed">PyTorch</text>
+<rect x="213" y="104" width="131" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="278.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#74d9ed">Transformers</text>
+<rect x="28" y="150" width="58" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="57" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#74d9ed">BERT</text>
+<rect x="98" y="150" width="58" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="127" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#74d9ed">CUDA</text>
+</g>
+<g transform="translate(567 0)">
+ <rect width="553" height="196" rx="14" fill="url(#panel)"/>
+ <rect width="553" height="196" rx="14" fill="url(#glow)"/>
+ <rect x=".8" y=".8" width="551.4" height="194.4" rx="13" stroke="#34516c" fill="none" stroke-width="1.6"/>
+ <rect x="0" y="0" width="4" height="196" rx="2" fill="#88b4ff" opacity=".86"/>
+ <text x="28" y="41" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#88b4ff" letter-spacing="1.4">LLM / AGENT SYSTEMS</text>
+ <text x="28" y="70" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#91afc5">Inference &amp; tool-based workflows</text>
+ <path d="M28 87H525" stroke="#36546e" stroke-width=".8" opacity=".78"/>
+<rect x="28" y="104" width="58" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="57" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">vLLM</text>
+<rect x="98" y="104" width="85" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="140.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">Qwen2.5</text>
+<rect x="195" y="104" width="131" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="260.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">Tool Calling</text>
+<rect x="28" y="150" width="95" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="75.5" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">AppWorld</text>
+<rect x="135" y="150" width="113" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="191.5" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#88b4ff">LLM Agents</text>
+</g>
+<g transform="translate(0 215)">
+ <rect width="553" height="196" rx="14" fill="url(#panel)"/>
+ <rect width="553" height="196" rx="14" fill="url(#glow)"/>
+ <rect x=".8" y=".8" width="551.4" height="194.4" rx="13" stroke="#34516c" fill="none" stroke-width="1.6"/>
+ <rect x="0" y="0" width="4" height="196" rx="2" fill="#91ded3" opacity=".86"/>
+ <text x="28" y="41" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#91ded3" letter-spacing="1.4">BIG DATA / DATA</text>
+ <text x="28" y="70" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#91afc5">Academic background &amp; data workflows</text>
+ <path d="M28 87H525" stroke="#36546e" stroke-width=".8" opacity=".78"/>
+<rect x="28" y="104" width="95" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="75.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#91ded3">Big Data</text>
+<rect x="135" y="104" width="159" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="214.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#91ded3">Data Processing</text>
+<rect x="28" y="150" width="150" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="103" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#91ded3">Data Pipelines</text>
+<rect x="190" y="150" width="113" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="246.5" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#91ded3">Evaluation</text>
+</g>
+<g transform="translate(567 215)">
+ <rect width="553" height="196" rx="14" fill="url(#panel)"/>
+ <rect width="553" height="196" rx="14" fill="url(#glow)"/>
+ <rect x=".8" y=".8" width="551.4" height="194.4" rx="13" stroke="#34516c" fill="none" stroke-width="1.6"/>
+ <rect x="0" y="0" width="4" height="196" rx="2" fill="#c1b4ff" opacity=".86"/>
+ <text x="28" y="41" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#c1b4ff" letter-spacing="1.4">ENGINEERING TOOLKIT</text>
+ <text x="28" y="70" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#91afc5">Development, tooling &amp; demos</text>
+ <path d="M28 87H525" stroke="#36546e" stroke-width=".8" opacity=".78"/>
+<rect x="28" y="104" width="67" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="61.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">Linux</text>
+<rect x="107" y="104" width="49" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="131.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">Git</text>
+<rect x="168" y="104" width="39" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="187.5" y="125" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">uv</text>
+<rect x="28" y="150" width="76" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="66" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">Gradio</text>
+<rect x="116" y="150" width="76" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="154" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">FFmpeg</text>
+<rect x="204" y="150" width="58" height="32" rx="8" fill="#172b42" stroke="#36536d" stroke-width="1"/><text x="233" y="171" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14.5" fill="#c1b4ff">CUDA</text>
+</g>
+</svg>
